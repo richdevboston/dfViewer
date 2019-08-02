@@ -26,7 +26,8 @@ Currently an issue with libpng and at least of of the images used in the tool ba
 libpng warning: cHRM: inconsistent chromaticities<br>
 libpng warning: iCCP: known incorrect sRGB profile<br>
 libpng warning: cHRM: inconsistent chromaticities<br>
-
+PyQT4 is NOT compatible with current version of PyQT5.  This should be run in a legacy PyQT4 virtual environment.  
+It will take considerable effort to update this to PyQT5 because many PyQT5 interfaces are different.  See the website here for the differences between PyQT4 and PyQT5:  https://doc.bccnsoft.com/docs/PyQt5/pyqt4_differences.html
 
 #### Screenshots
 Main Window<br>
